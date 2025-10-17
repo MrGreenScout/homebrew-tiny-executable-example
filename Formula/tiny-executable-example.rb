@@ -4,8 +4,8 @@
 class TinyExecutableExample < Formula
   desc ""
   homepage "https://github.com/MrGreenScout/homebrew-tiny-executable-example"
-  url "https://github.com/MrGreenScout/homebrew-tiny-executable-example/archive/refs/tags/v0.0.1-alpha.tar.gz"
-  sha256 "33fe363cb46e09194a85bc87e4398e32a21cd4a02a62f9c53b34077e1376b914"
+  url "https://github.com/MrGreenScout/homebrew-tiny-executable-example/archive/refs/tags/v0.0.2-alpha.tar.gz"
+  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
   license ""
 
   # depends_on "cmake" => :build
